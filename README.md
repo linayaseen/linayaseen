@@ -8,7 +8,7 @@ I am passionate about new technologies, new ideas and new ways of thinking and c
 
 *   🌍  I'm based in Khartoum,Sudan
 *   ✉️  You can contact me at [linayaseen@outlook.com](mailto:linayaseen@outlook.com)
-*   🧠  I'm learning Project planing and management ,Data science Data Engineer and Machine Learning.
+*   🧠  I'm learning Project planing and management ,Data science, Data Engineer and Machine Learning.
 *   🤝  I'm open to collaborating on Impelemintaion planning projects ,Data science and Data Engineer projects.
 *   ⚡  I'm secretly unicorn....but don't tell anyone🤫
 
