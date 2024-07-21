@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lina Mohammed Osman
 ===========================================================================================================================================
 
-Data Scientist/Project Planning & Implementation 
+Data Scientist
 --------------
 
 I am passionate about new technologies, new ideas and new ways of thinking and challenges. I want to be an excellent engineer one day , because I believe that, these kind of jobs provide a wide space of creativity and innovation those match my skills and I always like to do things perfectly. My patience, communication skills as well as the technical skills help me a lot in climbing the ladder towards my goals .
 
-*   🌍  I'm based in Khartoum,Sudan
+*   🌍  I'm based in Dubai,UAE
 *   ✉️  You can contact me at [linayaseen@outlook.com](mailto:linayaseen@outlook.com)
 *   🧠  I'm learning Project planing and management ,Data science, Data Engineer and Machine Learning.
 *   🤝  I'm open to collaborating on Impelemintaion planning projects ,Data science and Data Engineer projects.
